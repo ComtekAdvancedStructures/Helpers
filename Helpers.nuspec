@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Craig Verburgh</authors>
+    <owners>Comtek Advanced Structures</owners>
+    <licenseUrl>http://www.comtekadvanced.com</licenseUrl>
+    <projectUrl>https://www.github.com/comtekadvanced/helpers</projectUrl>
+    <iconUrl>http://www.comtekadvanced.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A small set of helper classes</description>
+    <releaseNotes>Testing 123...</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Comtek Helpers</tags>
+  </metadata>
+</package>
