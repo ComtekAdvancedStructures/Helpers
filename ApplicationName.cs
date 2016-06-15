@@ -4,6 +4,9 @@
 
 namespace Comtek.Helpers
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public enum ApplicationName
     {
         Unknown,
@@ -11,6 +14,17 @@ namespace Comtek.Helpers
         RepairPackage,
         DocumentManagement,
         PartWeight,
-        EventLog
+        EventLog,
+        Calendars,
+        Security,
+        Heian,
+        ToolTracking,
+        PcdViewer,
+        DxfViewer,
+        PwcForm2005,
+        Certificates,
+        SerialPrefix,
+        PartMarking,
+        CncQueue
     }
 }
