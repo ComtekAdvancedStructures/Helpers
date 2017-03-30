@@ -25,6 +25,7 @@ namespace Comtek.Helpers
         Certificates,
         SerialPrefix,
         PartMarking,
-        CncQueue
+        CncQueue,
+        LotAcceptanceTesting
     }
 }
