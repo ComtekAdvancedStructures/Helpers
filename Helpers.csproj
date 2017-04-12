@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ApplicationName.cs" />
     <Compile Include="AppSettings.cs" />
+    <Compile Include="AutoCompleteDto.cs" />
     <Compile Include="ConvertEnumToStringList.cs" />
     <Compile Include="Currency.cs" />
     <Compile Include="ErrorHelper.cs" />
