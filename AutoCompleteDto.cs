@@ -19,5 +19,10 @@
         ///     Extra information about the item returned
         /// </summary>
         public string Desc { get; set; }
+
+        /// <summary>
+        /// Used to sort items into categories on display
+        /// </summary>
+        public string Category { get; set; }
     }
 }
