@@ -26,6 +26,7 @@ namespace Comtek.Helpers
         SerialPrefix,
         PartMarking,
         CncQueue,
-        LotAcceptanceTesting
+        LotAcceptanceTesting,
+        CapList
     }
 }
