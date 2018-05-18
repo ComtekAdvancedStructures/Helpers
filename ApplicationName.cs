@@ -27,6 +27,7 @@ namespace Comtek.Helpers
         PartMarking,
         CncQueue,
         LotAcceptanceTesting,
-        CapList
+        CapList,
+        KanBan
     }
 }
