@@ -28,6 +28,7 @@ namespace Comtek.Helpers
         CncQueue,
         LotAcceptanceTesting,
         CapList,
-        KanBan
+        KanBan,
+        OpenOrderStatus
     }
 }

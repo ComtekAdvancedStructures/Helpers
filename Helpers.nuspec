@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Misc. Comtek Helpers</description>
-    <releaseNotes>Added DTO object for JQuery UI autocomplete widget.</releaseNotes>
+    <releaseNotes>Added ApplicationName.OpenOrderStatus</releaseNotes>
     <copyright>Copyright 2017</copyright>
   </metadata>
 </package>
