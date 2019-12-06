@@ -26,6 +26,7 @@
         CapList,
         KanBan,
         OpenOrderStatus,
-        SafetyDataSheets
+        SafetyDataSheets,
+        LotAcceptance
     }
 }

@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Misc. Comtek Helpers</description>
-    <releaseNotes>Added ApplicationName.OpenOrderStatus</releaseNotes>
+    <releaseNotes>Added ApplicationName.LotAcceptance</releaseNotes>
     <copyright>Copyright 2017</copyright>
   </metadata>
 </package>
