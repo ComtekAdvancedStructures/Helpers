@@ -27,6 +27,7 @@
         KanBan,
         OpenOrderStatus,
         SafetyDataSheets,
-        LotAcceptance
+        LotAcceptance,
+        CncSchedule
     }
 }
