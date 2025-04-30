@@ -28,6 +28,7 @@
         OpenOrderStatus,
         SafetyDataSheets,
         LotAcceptance,
-        CncSchedule
+        CncSchedule,
+        CapsList
     }
 }
